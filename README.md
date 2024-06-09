@@ -26,5 +26,6 @@ some of my screenshoots of the webiste is listed here:
 
 This project is still under development phase.
 
+© Anusha Mohanty 2024. All rights reserved.
 
 
