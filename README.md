@@ -24,7 +24,7 @@ some of my screenshoots of the webiste is listed here:
 ![dashboard applicant](https://github.com/Anusha-lizzie/job-portal/assets/172098447/d25615bd-a5b6-4cf3-8e59-5d11f5048b2b)
 
 
-This project is developed and code by and still under development phase.
+This project is still under development phase.
 
 
 
